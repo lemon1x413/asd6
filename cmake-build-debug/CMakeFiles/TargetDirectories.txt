@@ -1,0 +1,3 @@
+C:/Users/Roman/CLionProjects/asd6/cmake-build-debug/CMakeFiles/asd6.dir
+C:/Users/Roman/CLionProjects/asd6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Roman/CLionProjects/asd6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
